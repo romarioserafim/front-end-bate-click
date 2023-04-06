@@ -1,4 +1,4 @@
-# Front cadstro de veículo e defeitos
+# Front cadastro de veículo e defeitos.
 
 Para iniciar o Projeto é necessário ter o docker e docker composer instalado no ambiente, acesse a pasta raiz e execute.
 
